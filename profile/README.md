@@ -14,12 +14,12 @@
    2. Contribute code improvements and new features through pull requests.
    3. Engage in discussions and provide valuable insights in our community forums.
 
- Please refer to our [Contribution Guidelines](https://arunsinp.github.io/Vision-Analytics/) for detailed information on how to contribute.
+ Please refer to our [Contribution Guidelines](https://visionspaceanalytica.github.io/) for detailed information on how to contribute.
 
 ## 👩‍💻 Useful resources
 
 - To get started with Vision Analytica, you can explore our comprehensive documentation and resources available at 
-[Resources](https://github.com/arunsinp). 
+[Resources](https://github.com/avisionspaceanalytica). 
 - You'll find tutorials, guides, and best practices to help you make the most of your data analytics journey.
 
 Additionally, stay connected with us on social media for updates, webinars, and industry insights:
